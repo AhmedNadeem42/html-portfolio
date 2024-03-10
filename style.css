@@ -122,7 +122,12 @@ h3{
     #sec2{
         height: auto;
     }
-  }
+    h1{
+        font-size: 3rem;
+    }
+    #sec1{
+        height: 70vh;
+    }  
 
 .icons {
     width: 50px; /* Adjust the width of the icons as needed */
