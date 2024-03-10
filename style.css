@@ -125,9 +125,9 @@ h3{
     h1{
         font-size: 3rem;
     }
-    #sec1{
-        height: 70vh;
-    }  
+    .top-container > h2{
+        font-size: 1rem;
+    }
 
 .icons {
     width: 50px; /* Adjust the width of the icons as needed */
